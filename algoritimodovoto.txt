@@ -1,0 +1,12 @@
+- Receber a sua idade
+- Analisar a idade para ver se é permitido votar.
+- Idade para voto opcinal, 16 e 17 anos.
+- Idade para voto obrigatório, maiores de 18 anos.
+- Se: a idade for menor que, 16 anos.
+- Não é permitido votar
+- Senão se: a idade for entre 16 e 17 anos.
+- voto opcional
+- Senão se: a idade for maior ou igual a 18.
+- Voto obrigatório
+- Senão se: a idade for de 70 anos ou maior. 
+- Voto opcional
